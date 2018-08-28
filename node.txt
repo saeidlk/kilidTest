@@ -1,0 +1,1 @@
+A node is a physical or virtual machine running an instance of the Docker Engine in swarm mode.
